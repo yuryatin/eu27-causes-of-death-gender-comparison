@@ -1,0 +1,2 @@
+# eu27-causes-of-death-gender-comparison
+This R code plots the proportion of deaths attributed to CVD across different age groups for both sexes, using the Eurostat dataset estat_hlth_cd_aro.
