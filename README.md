@@ -48,3 +48,9 @@ The `condition_name` variable specifies the medical condition name that will be 
 This code saves a `plot.svg` file in the same folder as your new `.R` script. It looks like this:
 
 ![plot](https://github.com/user-attachments/assets/fc38970d-4b73-4260-8ecd-cf7c96c8b1e4)
+
+# Already generated GIFs
+
+You may also want to check the `generated_gifs_for_countries` folder in this repository for GIFs that have already been generated for selected EU countries and specific cardiovascular ICD10 code groups.
+
+![estat_hlth_cd_aro_I21 I22_vs_CV_in_France](https://github.com/user-attachments/assets/63eaa2a2-6bd4-40dd-b70b-29d56e6cf95f)
