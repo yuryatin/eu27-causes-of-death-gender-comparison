@@ -1,0 +1,12 @@
+# Distribution / packaging
+MANIFEST
+
+# Visual Studio Code
+# .vscode/
+
+# MacOS and Linux system files
+.DS_Store
+*.swp
+
+# Other 
+.upload.sh
